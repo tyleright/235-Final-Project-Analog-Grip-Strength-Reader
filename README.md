@@ -1,1 +1,2 @@
 # 235-Final-Project-Analog-Grip-Strength-Reader
+This is Arduino code for my final project in CSC 235. I made an analog grip stregnth reader using an arduino hooked up to a 200 pound load cell and an HX711 amplifier. This was connected to an OLED to display the force applied to the load cell by your grip (3D printed housing). This code icluded the HX711 library to read to the load cell, as well as the OLED library to display the reading of the load cell. 
